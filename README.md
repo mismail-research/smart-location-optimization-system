@@ -241,20 +241,13 @@ See the `LICENSE` file for complete licensing information.
 
 If you use this software or associated resources in your research, please cite the following Zenodo record:
 
-```bibtex
-@software{ismail_smart_location_optimization_system,
-  author       = {Muhammad Ismail},
-  title        = {Smart Location Optimization System},
-  year         = {2026},
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.21622814},
-  url          = {https://doi.org/10.5281/zenodo.21622814}
-}
-```
+**Author:** Muhammad Ismail  
 
-DOI: https://doi.org/10.5281/zenodo.21622814
+**Title:** Smart Location Optimization System  
 
----
+**Publisher:** Zenodo  
+
+**DOI:** https://doi.org/10.5281/zenodo.21622814
 
 # 📬 Contact
 

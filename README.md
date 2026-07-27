@@ -18,7 +18,7 @@ By combining predictive analytics with prescriptive optimization, the system pro
 
 This repository contains the implementation and experimental resources of the **Smart Location Optimization System**.
 
-The complete thesis documentation is not included in this repository due to copyright restrictions. The repository provides the software implementation, datasets, and supporting resources required for understanding and reproducing the developed system.
+The repository provides the software implementation, datasets, and supporting resources required for understanding and reproducing the developed system.
 
 ---
 

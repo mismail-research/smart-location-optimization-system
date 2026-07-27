@@ -69,25 +69,33 @@ The system consists of the following major components:
 
 ## ⚙️ Installation
 
-Clone the repository:
+### Clone the Repository
 
 ```bash
 git clone https://github.com/<your-username>/<repository-name>.git
-```
 
 Navigate to the project directory:
 
-```bash
 cd <repository-name>
-```
+Install Flutter Dependencies
 
-Install the required dependencies:
+Ensure that Flutter SDK is installed on your system. Then, install the required project dependencies using:
 
-```bash
-pip install -r requirements.txt
-```
+flutter pub get
+Configure the Application
 
-Configure the required database and application settings before running the system.
+Before running the system:
+
+Ensure that all required assets and datasets are placed in their respective directories.
+Configure API keys, database settings, or external service credentials (if required) in the appropriate configuration files.
+Verify that the required permissions are enabled for location-based services.
+Run the Application
+
+To launch the application in development mode, execute:
+
+flutter run
+
+The application will build and run on the connected device or emulator.
 
 ---
 

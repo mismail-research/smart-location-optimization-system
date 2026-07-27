@@ -249,6 +249,8 @@ If you use this software or associated resources in your research, please cite t
 
 **DOI:** https://doi.org/10.5281/zenodo.21622814
 
+---
+
 # 📬 Contact
 
 **Muhammad Ismail**

@@ -250,8 +250,11 @@ If you use this software or associated resources in your research, please cite t
   doi          = {10.5281/zenodo.21622814},
   url          = {https://doi.org/10.5281/zenodo.21622814}
 }
+```
 
 DOI: https://doi.org/10.5281/zenodo.21622814
+
+---
 
 # 📬 Contact
 
@@ -271,4 +274,3 @@ Faisalabad, Pakistan
 For questions, collaboration opportunities, bug reports, or feature requests, please open an issue in this repository or contact the author via email.
 
 ---
-

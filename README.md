@@ -82,7 +82,7 @@ The proposed system consists of multiple integrated components:
 
 # 📂 Repository Structure
 
-```
+```text
 Smart-Location-Optimization-System/
 │
 ├── Dataset/

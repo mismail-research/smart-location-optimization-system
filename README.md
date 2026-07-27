@@ -171,25 +171,27 @@ The application will build and execute on the connected device or emulator.
 
 ## 5. Backend Configuration (If Required)
 
-Navigate to the backend implementation directory:
+The backend components of the system are implemented using Python for data processing, machine learning, and optimization tasks.
+
+Navigate to the relevant backend implementation directory:
 
 ```bash
 cd Implementation/<backend-folder-name>
 ```
 
-Install Python dependencies:
+Install the required Python dependencies according to the project configuration.
 
-```bash
-pip install -r requirements.txt
-```
-
-Run the backend service:
+Run the backend service using:
 
 ```bash
 python <main-file-name>.py
 ```
 
-Ensure that PostgreSQL/PostGIS services are running before starting the complete system.
+Before running the complete system, ensure that:
+
+* Required datasets are available in their respective directories.
+* PostgreSQL/PostGIS services are properly configured and running (if required).
+* Necessary environment variables, API keys, and external service configurations are correctly configured.
 
 ---
 
